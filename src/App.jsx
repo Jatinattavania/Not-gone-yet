@@ -10,6 +10,7 @@ import About from './components/About'
 import WhoIsFor from './components/WhoIsFor'
 import FinalCTA from './components/FinalCTA'
 import Footer from './components/Footer'
+import VisitCounter from './components/VisitCounter'
 
 function App() {
     const [scrollProgress, setScrollProgress] = useState(0)
@@ -41,6 +42,7 @@ function App() {
                 <FinalCTA />
             </main>
             <Footer />
+            <VisitCounter />
         </>
     )
 }

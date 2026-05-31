@@ -32,7 +32,7 @@ export default function About() {
                     >
                         <div className="relative">
                             <img
-                                src="/Picture1.jpg"
+                                src={`${import.meta.env.BASE_URL}Picture4.jpg`}
                                 alt="Dr. Bobby Chaggar — stroke survivor, veterinary surgeon, and recovery advocate"
                                 className="w-full aspect-[3/4] object-cover rounded-sm"
                             />
@@ -77,10 +77,7 @@ export default function About() {
                             transition={{ duration: 0.8, delay: 0.5 }}
                         >
                             <p>
-                                Dr. Bobby Chaggar practiced as a veterinary surgeon for 15 years before an
-                                ischemic stroke paralyzed the entire left side of his body in 2023. Drawing
-                                on the resilience his parents taught him, Bobby developed a 'dynamic recovery'
-                                system focused on mindset, acceptance, and daily practice.
+                                Dr Bobby chaggar practiced as a successful veterinary surgeon for 15 years before moving to Australia and worked in business development for 10 years before an ischaemic stroke paralysed the entire left side of his body in 2023
                             </p>
 
                             <p>

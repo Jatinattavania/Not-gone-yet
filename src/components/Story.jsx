@@ -32,7 +32,7 @@ export default function Story() {
                     >
                         <div className="relative">
                             <img
-                                src="/Picture1.jpg"
+                                src="./picture1-2.jpg"
                                 alt="Dr. Bobby Chaggar at a cafe, relaxed and smiling after recovery"
                                 className="w-full aspect-[3/4] object-cover"
                             />

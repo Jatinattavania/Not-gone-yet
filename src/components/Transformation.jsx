@@ -105,7 +105,7 @@ export default function Transformation() {
                 >
                     <div className="relative overflow-hidden rounded-sm">
                         <img
-                            src="/Picture2.jpg"
+                            src="./Picture2.jpg"
                             alt="Dr. Bobby Chaggar on a motorcycle with his son in the sidecar — the dream realized"
                             className="w-full max-h-[600px] object-cover"
                         />

@@ -7,7 +7,7 @@ const AMAZON_LINK = 'https://www.amazon.com.au/dp/B0GS9L9K14'
 
 function Book() {
     const meshRef = useRef()
-    const texture = useTexture('/book-cover.jpg')
+    const texture = useTexture('./book-cover.jpg')
     const [hovered, setHovered] = useState(false)
 
     useFrame((state) => {
@@ -89,7 +89,7 @@ function BookScene() {
         return (
             <div className="w-full h-full flex items-center justify-center">
                 <img
-                    src="/book-cover.jpg"
+                    src="./book-cover.jpg"
                     alt="Not Gone Yet book cover"
                     className="w-64 md:w-80 shadow-2xl rounded"
                 />

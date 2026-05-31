@@ -7,7 +7,7 @@ const AMAZON_LINK = 'https://www.amazon.com.au/dp/B0GS9L9K14'
 
 function CTABook() {
     const meshRef = useRef()
-    const texture = useTexture('/book-cover.jpg')
+    const texture = useTexture('./book-cover.jpg')
 
     useFrame((state) => {
         if (meshRef.current) {
@@ -40,7 +40,7 @@ function BookVisual() {
         return (
             <div className="flex items-center justify-center h-full">
                 <img
-                    src="/book-cover.jpg"
+                    src="./book-cover.jpg"
                     alt="Not Gone Yet book cover"
                     className="w-48 md:w-56 shadow-2xl"
                 />

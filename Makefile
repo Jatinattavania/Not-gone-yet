@@ -22,8 +22,8 @@ preview:
 	npm run preview
 
 deploy:
-	@echo "Deploying site..."
-	npm run deploy
+	@echo "Building production bundle for cPanel deployment..."
+	npm run build
 
 # --------------------
 # Git commands
@@ -67,7 +67,7 @@ help:
 	@echo "  dev           Run npm run dev"
 	@echo "  build         Run npm run build"
 	@echo "  preview       Run npm run preview"
-	@echo "  deploy        Run npm run deploy"
+	@echo "  deploy        Build production bundle for cPanel"
 	@echo ""
 	@echo "Git commands:"
 	@echo "  git-add       Stage all changes"
@@ -76,7 +76,7 @@ help:
 	@echo "  git-all       git-add, git-commit, and git-push"
 	@echo ""
 	@echo "Combined commands:"
-	@echo "  deploy-git    Run npm run deploy then git add, commit, and push"
+	@echo "  deploy-git    Build, then git add, commit, and push"
 	@echo ""
 	@echo "Examples:"
 	@echo "  make dev"

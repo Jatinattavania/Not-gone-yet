@@ -90,11 +90,11 @@ export default function FinalCTA() {
                         <h2 className="font-display font-bold text-3xl md:text-4xl lg:text-5xl text-cream mb-6 leading-tight">
                             You Survived Your Stroke.
                             <br />
-                            <span className="text-golden">Now Discover What You're Truly Capable Of.</span>
+                            <span className="text-golden">Now Discover What You're Truly Capable Of in Your New Normal.</span>
                         </h2>
 
                         <p className="font-body text-cream/60 text-lg mb-10">
-                            Available now on Amazon in Kindle and Paperback.
+                            Available now on Amazon in Kindle and Paperback for readers seeking inspirational stories of resilience, rehab, and healing.
                         </p>
 
                         {/* CTA Button - large, prominent */}

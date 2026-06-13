@@ -4,7 +4,7 @@ import { useRef } from 'react'
 const audiences = [
     {
         title: 'Stroke Survivors',
-        description: "You're ready to reclaim your life and find yourself again",
+        description: "You're ready to reclaim your life, rebuild confidence, and keep moving through neuro recovery",
         icon: (
             <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
@@ -13,7 +13,7 @@ const audiences = [
     },
     {
         title: 'Caregivers',
-        description: "You need hope that healing is possible and want to truly help",
+        description: "You need hope that healing is possible and practical guidance for family caregiving",
         icon: (
             <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
@@ -22,7 +22,7 @@ const audiences = [
     },
     {
         title: 'Anyone',
-        description: "You refuse to let a medical event define the rest of your story",
+        description: "You refuse to let an unexpected health crisis define the rest of your story",
         icon: (
             <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M13 10V3L4 14h7v7l9-11h-7z" />

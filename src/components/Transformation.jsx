@@ -127,7 +127,8 @@ export default function Transformation() {
                     <span className="text-golden text-6xl font-display leading-none opacity-40">"</span>
                     <p className="font-display italic text-xl md:text-2xl lg:text-3xl text-navy/90 leading-relaxed -mt-6">
                         Bobby wrote Not Gone Yet because stroke victims aren't gone. They're standing at the
-                        threshold of discovering strength, compassion, and purpose they never knew they possessed.
+                        threshold of discovering strength, compassion, purpose, and a recovery mindset that turns
+                        rehab success stories into real personal transformation.
                     </p>
                     <div className="w-16 h-px bg-golden/40 mt-8" />
                 </motion.blockquote>

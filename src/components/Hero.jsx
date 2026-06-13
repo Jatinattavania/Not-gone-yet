@@ -169,7 +169,16 @@ export default function Hero() {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8, delay: 0.9 }}
                     >
-                        You Survived Your Stroke. Now, Here Is the Roadmap to Reclaiming Your Life and Finding Yourself Again.
+                        You Survived Your Stroke. Now, Here Is the Roadmap to Reclaiming Your Life and Finding Strength in the New Normal.
+                    </motion.p>
+
+                    <motion.p
+                        className="font-body text-cream/50 text-sm mb-10 max-w-lg leading-relaxed"
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.8, delay: 1.0 }}
+                    >
+                        An inspirational memoir for readers searching for rehab success stories, recovery mindset, neuro recovery, invisible illness support, and real resilience stories.
                     </motion.p>
 
                     {/* CTAs */}
@@ -177,7 +186,7 @@ export default function Hero() {
                         className="flex flex-col sm:flex-row gap-4"
                         initial={{ opacity: 0, y: 20 }}
                         animate={{ opacity: 1, y: 0 }}
-                        transition={{ duration: 0.8, delay: 1.1 }}
+                        transition={{ duration: 0.8, delay: 1.2 }}
                     >
                         <a
                             href={AMAZON_LINK}

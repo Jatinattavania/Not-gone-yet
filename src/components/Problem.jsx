@@ -52,7 +52,8 @@ export default function Problem() {
                             But inside, you're grieving. You don't recognize yourself anymore. The person you
                             were feels gone, and everyone keeps telling you to{' '}
                             <span className="text-golden">'stay positive'</span> like that's supposed to
-                            fix everything.
+                            fix everything. That is the hidden reality of invisible illness, an unexpected
+                            health crisis, and the emotional work behind real recovery.
                         </p>
                     </blockquote>
 

@@ -120,7 +120,7 @@ Animations feel like **content being typeset in real-time**:
 - Text: Deep Navy (`#1a1a2e`), uppercase, `Inter 600`
 - Shape: Rectangular with subtle rounding (4px border-radius)
 - Hover: Amber glow effect + slight brightness increase
-- All link to: `https://www.amazon.com.au/dp/B0GS9L9K14`
+ - All link to: `https://amzn.asia/d/0hkyvlzw`
 
 ### Placement
 - Sticky nav (always visible)

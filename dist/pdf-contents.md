@@ -8,7 +8,7 @@ What If Your Stroke Could Make You Stronger Than You Were Before?
 You Survived Your Stroke. Now, Here Is the Roadmap
 to Reclaiming Your Life and Finding Yourself Again.
 [ BUY ON AMAZON ]
-https://www.amazon.com.au/dp/B0GS9L9K14
+https://amzn.asia/d/0hkyvlzw
 
 ## The Part of Recovery Your Doctors Aren't Teaching You
 You're doing everything right. Physical therapy, doctor's appointments,
@@ -37,7 +37,7 @@ again
 • You're a caregiver desperate to know how to truly help your loved one
 If you answered YES, then Not Gone Yet will show you the way forward.
 [ AVAILABLE ON AMAZON ]
-https://www.amazon.com.au/dp/B0GS9L9K14
+https://amzn.asia/d/0hkyvlzw
 
 ## What You'll Discover in Not Gone Yet
 This isn't another clinical manual about exercises and medical protocols. This
@@ -88,7 +88,7 @@ Bobby wrote Not Gone Yet because stroke victims aren't gone. They're standing
 at the threshold of discovering strength, compassion, and purpose they never
 knew they possessed.
 [ BUY ON AMAZON]
-https://www.amazon.com.au/dp/B0GS9L9K14
+https://amzn.asia/d/0hkyvlzw
 
 
 ## Colour palette

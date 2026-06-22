@@ -3,7 +3,7 @@ import { Canvas, useFrame } from '@react-three/fiber'
 import { Float, Environment, useTexture } from '@react-three/drei'
 import { motion } from 'framer-motion'
 
-const AMAZON_LINK = 'https://www.amazon.com.au/dp/B0GS9L9K14'
+const AMAZON_LINK = 'https://amzn.asia/d/0hkyvlzw'
 
 function Book() {
     const meshRef = useRef()

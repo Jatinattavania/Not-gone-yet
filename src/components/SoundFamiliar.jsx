@@ -1,7 +1,7 @@
 import { motion, useInView } from 'framer-motion'
 import { useRef } from 'react'
 
-const AMAZON_LINK = 'https://www.amazon.com.au/dp/B0GS9L9K14'
+const AMAZON_LINK = 'https://amzn.asia/d/0hkyvlzw'
 
 const painPoints = [
     "You're tired of slow progress and wondering if you'll ever feel like yourself again",

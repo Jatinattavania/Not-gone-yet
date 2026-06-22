@@ -1,4 +1,4 @@
-const AMAZON_LINK = 'https://www.amazon.com.au/dp/B0GS9L9K14'
+const AMAZON_LINK = 'https://amzn.asia/d/0hkyvlzw'
 
 export default function Footer() {
     return (

@@ -10,7 +10,7 @@
 Create a visually stunning, conversion-focused single-page landing website for the book **"Not Gone Yet: A Memoir of Stroke, Survival, and the Uneven Road Back to Myself"** by Dr. Ramandeep "Bobby" Chaggar. The page must emotionally connect with stroke survivors and caregivers while driving purchases via Amazon Australia.
 
 ### 1.2 Target URL
-Amazon purchase link: https://www.amazon.com.au/dp/B0GS9L9K14
+Amazon purchase link: https://amzn.asia/d/0hkyvlzw
 
 ### 1.3 Core Objective
 Convert visitors (stroke survivors, caregivers, family members, medical professionals) into book buyers through an emotionally resonant, beautifully designed landing page that communicates hope, strength, and transformation.
@@ -325,8 +325,8 @@ Drawing from modern book landing pages with:
 **Content**:
 - **Headline**: "You Survived Your Stroke. Now Discover What You're Truly Capable Of."
 - **Book cover image** or 3D book model (final appearance)
-- **Price note**: "Available now on Amazon"
-- **Primary CTA button**: "BUY ON AMAZON" → https://www.amazon.com.au/dp/B0GS9L9K14
+ - **Price note**: "Available now on Amazon"
+ - **Primary CTA button**: "BUY ON AMAZON" → https://amzn.asia/d/0hkyvlzw
 - **Supporting text**: "Available in Kindle and Paperback"
 
 **Design Notes**:
@@ -465,7 +465,7 @@ Drawing from modern book landing pages with:
 - Large, rounded, with subtle shadow
 - Hover: glow effect + slight scale
 - Text: "Buy on Amazon" (clear, no ambiguity)
-- All CTAs link to: https://www.amazon.com.au/dp/B0GS9L9K14
+- All CTAs link to: https://amzn.asia/d/0hkyvlzw
 
 ### 10.3 Emotional Arc of the Page
 1. **Hook** (Hero): Curiosity + hope — "What if your stroke could make you stronger?"
